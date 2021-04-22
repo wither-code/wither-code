@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/wither-code/wither-code/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### What are GitHub Pages?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[GitHub Pages](https://pages.github.com/) 
 
-### Markdown
+> Websites for you and your projects.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+These are hosted directly from your [GitHub Repository](https://github.com/). The page(s) can be edited, created, and done as what you wish with them.
 
-```markdown
-Syntax highlighted code block
+### Why?
 
-# Header 1
-## Header 2
-### Header 3
+Currently, I am just using the Pages as a way to test a few things with [Markdown](https://daringfireball.net/projects/markdown/). I am also going to try to edit this more or less with [Typora](https://typora.io/), which is an editor for Markdown.
 
-- Bulleted
-- List
+### Who am I?
 
-1. Numbered
-2. List
+I am Eye_Of_Wither, a player on the [Hypixel Network](https://hypixel.net). As of right now, this is just a simple testing bit for me, and might be a way for me to mess around with a few things in the future. 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wither-code/wither-code/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Who knows, I might even add a little [Python](https://www.python.org/) program on my [GitHub Repository](https://github.com/wither-code/wither-code) in the future, but for now it will probably remain empty. 
