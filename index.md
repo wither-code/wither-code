@@ -15,7 +15,7 @@ Currently, I am just using the Pages as a way to test a few things with [Markdow
 ### Who am I?
 
 I am Eye_Of_Wither, a player on the [Hypixel Network](https://hypixel.net). As of right now, this is just a simple testing bit for me, and might be a way for me to mess around with a few things in the future. 
+I tend to spend most of my time on the Hypixel Network Discord, chances are that if you have seen me before, it has been there.
 
 
-
-Who knows, I might even add a little [Python](https://www.python.org/) program on my [GitHub Repository](https://github.com/wither-code/wither-code) in the future, but for now it will probably remain empty. 
+Who knows, I might even add a little Java, JavaScript, or C# program on my [GitHub Repository](https://github.com/wither-code/wither-code) in the future, but for now it will probably remain empty. 
